@@ -3,6 +3,7 @@
 	"version": 2,
 	"settings": {
         "typography": {
+            "fluid": true,
             "fontFamilies": [
                 {
                     "name": "Default",
